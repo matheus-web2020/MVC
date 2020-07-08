@@ -1,0 +1,13 @@
+C:\Users\Matheus\Desktop\SENAI\MVC_POO\bin\Debug\netcoreapp3.1\MVC_POO.exe
+C:\Users\Matheus\Desktop\SENAI\MVC_POO\bin\Debug\netcoreapp3.1\MVC_POO.deps.json
+C:\Users\Matheus\Desktop\SENAI\MVC_POO\bin\Debug\netcoreapp3.1\MVC_POO.runtimeconfig.json
+C:\Users\Matheus\Desktop\SENAI\MVC_POO\bin\Debug\netcoreapp3.1\MVC_POO.runtimeconfig.dev.json
+C:\Users\Matheus\Desktop\SENAI\MVC_POO\bin\Debug\netcoreapp3.1\MVC_POO.dll
+C:\Users\Matheus\Desktop\SENAI\MVC_POO\bin\Debug\netcoreapp3.1\MVC_POO.pdb
+C:\Users\Matheus\Desktop\SENAI\MVC_POO\obj\Debug\netcoreapp3.1\MVC_POO.csprojAssemblyReference.cache
+C:\Users\Matheus\Desktop\SENAI\MVC_POO\obj\Debug\netcoreapp3.1\MVC_POO.csproj.CoreCompileInputs.cache
+C:\Users\Matheus\Desktop\SENAI\MVC_POO\obj\Debug\netcoreapp3.1\MVC_POO.AssemblyInfoInputs.cache
+C:\Users\Matheus\Desktop\SENAI\MVC_POO\obj\Debug\netcoreapp3.1\MVC_POO.AssemblyInfo.cs
+C:\Users\Matheus\Desktop\SENAI\MVC_POO\obj\Debug\netcoreapp3.1\MVC_POO.dll
+C:\Users\Matheus\Desktop\SENAI\MVC_POO\obj\Debug\netcoreapp3.1\MVC_POO.pdb
+C:\Users\Matheus\Desktop\SENAI\MVC_POO\obj\Debug\netcoreapp3.1\MVC_POO.genruntimeconfig.cache
